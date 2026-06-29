@@ -1,5 +1,5 @@
 # 💫 About Me:
-c++ developer, knows mysql, git, python and ui/ux
+C++ Developer
 
 
 ## 🌐 Socials:
